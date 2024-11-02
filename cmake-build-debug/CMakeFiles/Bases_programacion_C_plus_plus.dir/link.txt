@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Bases_programacion_C_plus_plus.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\Bases_programacion_C_plus_plus.dir/objects.a @CMakeFiles\Bases_programacion_C_plus_plus.dir\objects1.rsp
-C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Bases_programacion_C_plus_plus.dir/objects.a -Wl,--no-whole-archive -o Bases_programacion_C_plus_plus.exe -Wl,--out-implib,libBases_programacion_C_plus_plus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Bases_programacion_C_plus_plus.dir\linkLibs.rsp
